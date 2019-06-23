@@ -1,0 +1,7 @@
+{
+  "env": {
+    "NODE_ENV": "development",
+    "MONGODB_URI": "mongodb+srv://admin:admin@cluster0-zkfdp.mongodb.net/karaoke",
+    "PORT": 3030
+  }
+}
